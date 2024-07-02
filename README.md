@@ -1,7 +1,7 @@
 # wrules
 react-hook-forms regras personalizadas
 
-Exempplo:
+Exemplo:
 ```jsx
 import { useForm } from "react-hook-form";
 import { w } from "./WRules"; // Importe sua função w
